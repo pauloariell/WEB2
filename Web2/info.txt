@@ -1,0 +1,13 @@
+Desenvolver o código HTML e CSS da página inicial de um sistema de e-commerce. A página deve ter no mínimo as seguintes seções:
+- Nome da loja
+- Uma área indicando um ou mais produtos em destaque
+- Uma lista de pelo menos 12 produtos diferentes,
+  contendo:
+    o nome do produto,
+    imagem,
+    preço e
+    botão de adicionar ao carrinho de compras.
+
+OBS: O framework Bootstrap ou similar NÃO poderá ser usado neste exercício.
+O exercício pode ser desenvolvido em até 2 pessoas. Neste caso, somente 1 pessoa deverá fazer a entrega e indicar o nome do outro integrante da dupla. Entregas com 3 ou mais pessoas serão totalmente desconsiderados.
+Caso sejam identificados exercícios copiados, todos os envolvidos ficarão com nota 0 (ZERO) e a ocorrência poderá ser levada para a coordenação.

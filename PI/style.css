@@ -1,0 +1,28 @@
+/* CSS Reset */
+/** {
+    box-sizing: border-box;
+}
+
+.row {
+    clear: both;
+}*/
+
+/*[class*="col-"] {
+  float: left;
+  padding: 15px;
+  border: 1px solid black;
+}
+*/
+
+/* example
+@media print {
+  div { border: 1px solid black; }
+}
+
+@media print and (orientation: landscape) {
+  div { border: 1px dotted black; }
+}
+*/
+select#filter{
+  color: red;
+}

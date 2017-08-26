@@ -1,0 +1,29 @@
+<div class="form-group">
+   <label for="formGroupExampleInput">Example label</label>
+   <input type="text" class="form-control" id="formGroupExampleInput" placeholder="Example input">
+ </div>
+
+https://v4-alpha.getbootstrap.com/components/forms/
+
+
+function iniciar(){
+
+  var text = $(".example").val();
+  alert(text);
+
+
+  if(text="ajulejo"){
+    var teste = document.createElement("p")
+    teste.value = "teste"
+    $("#form-filter").appendChild(teste);
+  }
+  else {
+
+  }
+
+
+
+
+
+
+}

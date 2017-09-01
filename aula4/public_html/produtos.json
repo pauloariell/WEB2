@@ -1,0 +1,18 @@
+[
+    {"nome": "Produto 1", "preço": 100 },
+    {"nome": "Produto 2", "preço": 200 },
+    {"nome": "Produto 3", "preço": 300 },
+    {"nome": "Produto 4", "preço": 400 },
+    {"nome": "Produto 5", "preço": 500 },
+    {"nome": "Produto 6", "preço": 600 },
+    {"nome": "Produto 7", "preço": 700 },
+    {"nome": "Produto 8", "preço": 800 },
+    {"nome": "Produto 9", "preço": 900 },
+    {"nome": "Produto 10", "preço": 1000 },
+    {"nome": "Produto 11", "preço": 1100 },
+    {"nome": "Produto 12", "preço": 1200 },
+    {"nome": "Produto 13", "preço": 1300 },
+    {"nome": "Produto 14", "preço": 1400 },
+    {"nome": "Produto 15", "preço": 1500 },
+    {"nome": "Produto 16", "preço": 1600 }
+]
